@@ -2,9 +2,7 @@
 
 ---
 
-🚀 **Building an AI Resume Analyzer using Streamlit + LLMs** 🤖📄
-
-I’m currently working on an **AI-powered Resume Analyzer** that helps evaluate resumes more intelligently using **Large Language Models** and a clean **Streamlit interface**.
+ **AI-powered Resume Analyzer** that helps evaluate resumes more intelligently using **Large Language Models** and a clean **Streamlit interface**.
 
 ### ❓ **Why build an AI Resume Analyzer?**
 
