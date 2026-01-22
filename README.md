@@ -1,5 +1,4 @@
 # Resume-Analyzer-CSV-Generator
-Here’s an **attractive, professional LinkedIn post** tailored for your **AI Resume Analyzer project**, with **clear structure, impact, and balanced emojis** 👌
 
 ---
 
