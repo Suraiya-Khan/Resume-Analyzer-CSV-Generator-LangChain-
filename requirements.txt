@@ -1,0 +1,12 @@
+#streamlit run 
+streamlit
+python-dotenv
+pandas
+PyMuPDF
+python-docx
+langchain
+langchain-core
+langchain-openai
+langchain-google-genai
+openai
+typing-extensions
